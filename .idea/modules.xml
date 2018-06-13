@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mssm-parent/mssm-dao/mssm-dao.iml" filepath="$PROJECT_DIR$/../mssm-parent/mssm-dao/mssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mssm-parent/mssm-parent.iml" filepath="$PROJECT_DIR$/../mssm-parent/mssm-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mssm-parent/mssm-service/mssm-service.iml" filepath="$PROJECT_DIR$/../mssm-parent/mssm-service/mssm-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mssm-parent/mssm-web/mssm-web.iml" filepath="$PROJECT_DIR$/../mssm-parent/mssm-web/mssm-web.iml" />
+    </modules>
+  </component>
+</project>
